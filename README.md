@@ -1,0 +1,2 @@
+# Pannellum-test
+Pannellumのテスト用
